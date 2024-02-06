@@ -3,7 +3,7 @@
 import javax.validation.constraints.NotNull;
 import java.util.Objects;
 
-
+package com.itau.dto
 public class SimulacaoDTO {
 
     private String contrato;
